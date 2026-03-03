@@ -25,6 +25,17 @@ print (x%y) # Modulus
 print (x ** y) # Exponentiation
 
 
+# Exercise 1
+
+company = "Silver.Sdn.Bhd"
+start_year = 2006
+salary = 3478.49
+is_employed = True
+
+print ("Name of Company:",(company))
+print ("Work Since:",(start_year))
+print ("RM:",(salary))
+print ("Status:",(is_employed))
 
 
 
