@@ -16,6 +16,14 @@ print(text[7:])   #7 to end
 
 #String Methods
 
+print(len(text))  #length
+print(text.strip())    #Remove whitespace/space
+print(text.upper())    #Uppercase
+print(text.lower())    #Lowercase
+print(text.title())    #Title case
+print(text.replace("Python","Ular Sawa")) #Replace
+
+
 
 
 ## Exercise 2 ##
