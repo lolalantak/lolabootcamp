@@ -23,8 +23,6 @@ elif operation=="/":
 else:
     result = "Invalide Operation"
 
-except ValueError:
-print("Sila input the Number not character!!")
 
 #Output result
 
