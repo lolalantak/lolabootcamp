@@ -29,7 +29,7 @@ print (f"Bil Pelajar adalah : {len (listofname)} & Senarai Pelajar ialah : {list
 print (f"Senarai Subject : {listofsubject}")
 
 for name, subject, grede in grades:
-    print (f"Name:{name} | Subject : {subject} | Gred : {grede}")
+    print (f"Name:{name} | Subject : {subject [listofsubject]} | Gred : {grede}")
 
 
 
