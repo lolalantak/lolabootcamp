@@ -23,6 +23,8 @@ def prime_number (num):
 
 number = input_number(int)
 
+# Print result
+
 if prime_number (number):
     print (f"{number} is Prime Number")
 
